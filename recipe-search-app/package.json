@@ -1,0 +1,28 @@
+{
+  "name": "recipe-search-app",
+  "version": "1.0.0",
+  "description": "A web application that allows users to search for recipes based on ingredients and save favorite recipes.",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.2.0",
+    "vue-router": "^4.0.0",
+    "vuex": "^4.0.0"
+  },
+  "devDependencies": {
+    "vite": "^2.0.0",
+    "@vitejs/plugin-vue": "^1.0.0"
+  },
+  "keywords": [
+    "vue",
+    "recipes",
+    "search",
+    "favorites"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
